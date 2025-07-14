@@ -36,8 +36,8 @@ Organizations often struggle to retain top talent due to unclear visibility into
 
 🔗 **Live Links**
 
-- 📘 [Jupyter Notebook – EDA Walkthrough](./HR_Analytics.ipynb)  
-- 📊 [Dataset – HR-Employee-Attrition.csv](./HR-Employee-Attrition.csv)  
+- 📘 <a href="https://github.com/MithunMohan123/Decoding-Workforce-Churn-Python-EDA-/blob/main/Workforce%20Churn%20Analytics%20.ipynb"> Jupyter Notebook – EDA Walkthrough </a>   
+ 
 
 ---
 
